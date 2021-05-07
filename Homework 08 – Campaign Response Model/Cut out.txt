@@ -1,0 +1,1 @@
+'recency','length_of_stay','visit_basket_l','num_repeat_periods','recency_score','monetary_6m','monthly_spend_6m','monetary_12m','monthly_spend_12m','monthly_visit_24m','velocity_monetary_6_24','frequency'
