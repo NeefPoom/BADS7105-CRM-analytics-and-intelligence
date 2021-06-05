@@ -1,5 +1,5 @@
 # Customer Journey
-My experience studying online courses at Coursera in 2017-2018
+The isurance policy marketing and customer journey online 
 
 ## Customer Journey Map
 ![Customer Journey](./pictures/page1.PNG)
