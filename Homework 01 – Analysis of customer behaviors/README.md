@@ -9,3 +9,8 @@ Example of the result
 ## Demographic
 ![demographic](./pictures/01_description.PNG)
 ![demographic](./pictures/02_description.PNG)
+
+## Frequency
+Normalized as percentage count for each question
+### Interests
+![interest frequency](./03_heat map.PNG)
