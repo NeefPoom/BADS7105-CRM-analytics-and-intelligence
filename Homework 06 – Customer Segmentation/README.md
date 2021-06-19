@@ -1,7 +1,7 @@
 # Customer Segmentation
 
 ## Concept of Data Query
-The query is trying to compare Total visit and average spending for 3 catagories of customers; Less affluent, middle class, and upper-middle class.
+The query is trying to compare Total visit and average spending for 3 catagories of customers; Less affluent, middle class, and upper-middle class. \
 ![CS](./picture/Aggregate_basketsize_custsensitivity.PNG)
 
 ## Result from K-Mean Traning dataset
