@@ -1,3 +1,3 @@
 # Customer Movement Aanlysis
-![CMA](./picture/Customers Movement Analysis.PNG)
+![CMA](./picture/Customers_Movement_Analysis.PNG)
 
