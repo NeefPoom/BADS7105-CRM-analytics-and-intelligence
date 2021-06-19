@@ -13,11 +13,11 @@ Example of the result
 ## Frequency
 Normalized as percentage count for each question
 ### Interests
-![interest frequency](./pictures/03_heat_map.PNG)
+![interest frequency](./pictures/03_heat_map.png)
 
 ## Side-by-Side Distribution
 Comparing distributions of the responses of interest and consumption on the same topic.  
-![boxplot](./pictures/04_box_plot.PNG)
+![boxplot](./pictures/04_Box_plot.png)
 
 ## Summary
 ผู้ชายจะชอบบริโภคแอลกอฮอล์มากกว่าผู้หญิง แต่อาจเพราะส่วนมากเป็ฯวัยทำงานแล้วจึงไม่ค่อยมีเวลาไปดื่ม 
