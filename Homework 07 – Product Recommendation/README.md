@@ -7,5 +7,5 @@ A survey allowed each student in class to set a question to all students and ask
 
 ## Result
 This is the result from plotting relationship to recommend product to a person who choose one of these products.
-![rec](./rec.PNG)
+![rec](./Rec.png)
 
