@@ -1,3 +1,3 @@
 
 # Job to be done
-![Job-to-be-done](.Job-to-be-done.jpg)
+![Job-to-be-done](./Job-to-be-done.jpg)
