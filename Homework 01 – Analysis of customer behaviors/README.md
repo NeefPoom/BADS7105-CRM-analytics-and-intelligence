@@ -7,5 +7,5 @@ A survey asking about interests and consumptions of 30 things, e.g., Japanese fo
 
 Example of the result  
 ## Demographic
-![demographic](./pictures/01_description.png)
-![demographic](./pictures/02_description.png)
+![demographic](./pictures/01_description.PNG)
+![demographic](./pictures/02_description.PMG)
