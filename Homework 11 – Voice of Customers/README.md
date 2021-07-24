@@ -3,6 +3,9 @@
 
 **Notebook:** [Wongnai](./Wongnai_Review_Analysis_modified.ipynb)
 
+Add New words
+![Voice](./add_word.png)
+
 Result
 ## result of voice of customer after adding dictionary
 ![Voice](./Voice.PNG)
