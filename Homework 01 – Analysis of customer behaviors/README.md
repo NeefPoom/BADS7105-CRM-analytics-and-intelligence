@@ -5,7 +5,7 @@ A survey asking about interests and consumptions of 30 things, e.g., Japanese fo
 
 **Notebook:** [Analysis of customer behaviors](./HW1_Customer_behavior.ipynb)
 
-## Recommendation Interest
+## Interest Relationship
 ![Recommendation_male](./pictures/Interest_male.png) \
 ผู้ชายมักมีความสนใจในเรื่องกินที่หลากหลายทั้งชาบู ปิ้งย่าง อาหารญี่ปุ่น แต่ในบางมุมของบางคนก็ชอบอ่านหนังสือหรืออ่านบทความอยู่เหมือนกัน \
 ![Recommendation_female](./pictures/Interest_female.png) \
